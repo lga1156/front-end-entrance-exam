@@ -1,5 +1,5 @@
-@import './vendor/normalize.css';
-@import './vendor/fonts/Poppins/poppins.css';
+@import 'normalize.css';
+@import 'poppins.css';
 
 .page {
   font-family: 'Poppins', 'Arial', sans-serif;
