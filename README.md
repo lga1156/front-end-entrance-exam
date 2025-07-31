@@ -6,7 +6,7 @@
 
 🌍 Демо
 
-[Открыть в GitHub Pages](https://lga1156.github.io/front-end-entrance-exam/) (не все функции доступны, проверяйте локально)
+[Открыть в GitHub Pages](https://lga1156.github.io/front-end-entrance-exam/)
 
 ---
 
